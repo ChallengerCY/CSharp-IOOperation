@@ -1,0 +1,6 @@
+c:\visual studio 2013\Projects\CSharpIOOperation\CSharpIOOperation\bin\Debug\CSharpIOOperation.exe.config
+c:\visual studio 2013\Projects\CSharpIOOperation\CSharpIOOperation\bin\Debug\CSharpIOOperation.exe
+c:\visual studio 2013\Projects\CSharpIOOperation\CSharpIOOperation\bin\Debug\CSharpIOOperation.pdb
+c:\visual studio 2013\Projects\CSharpIOOperation\CSharpIOOperation\obj\Debug\CSharpIOOperation.csprojResolveAssemblyReference.cache
+c:\visual studio 2013\Projects\CSharpIOOperation\CSharpIOOperation\obj\Debug\CSharpIOOperation.exe
+c:\visual studio 2013\Projects\CSharpIOOperation\CSharpIOOperation\obj\Debug\CSharpIOOperation.pdb
